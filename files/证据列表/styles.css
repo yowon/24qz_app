@@ -364,3 +364,25 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u31 {
+  position:absolute;
+  left:193px;
+  top:500px;
+  width:170px;
+  height:120px;
+}
+#u31_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:170px;
+  height:120px;
+}
+#u32 {
+  position:absolute;
+  left:2px;
+  top:52px;
+  width:166px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
